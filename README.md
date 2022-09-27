@@ -6,9 +6,9 @@
 - 🏙  Atualmente resido no Brasil;
 - 😄 Pronome: ele/dele;
 - 😆 Fato curioso: me chamam de soldado por eu ter servido a Força Aérea por 4 anos;
-- 😉 if you are from another country, you can speak to me in english without any problems
+- 😉 if you are from another country, you can speak to me in english, without any problems!
 
-<h2> Status baseados em Repositórios Públicos </h2>
+<h2> Status baseados em repositórios públicos </h2>
   
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagofsant&show_icons=true&theme=tokyonight)
  
