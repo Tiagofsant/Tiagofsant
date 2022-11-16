@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Tiago! É uma honra ter você aqui!
    
-- 🔭 Hoje trabalho com desenvolvimento Full-Stack;
-- 🌱 Estudando ASP.NET Express Edition;
+- 🔭 Hoje trabalho com desenvolvimento Full-Stack em modalidade CLT;
+- 🌱 Estudando segurança em .NET;
 - 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
 - 🏙  Atualmente resido no Brasil;
 - 😄 Pronome: ele/dele;
