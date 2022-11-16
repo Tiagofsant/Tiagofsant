@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago! É uma honra ter você aqui!
    
-- 🔭 Hoje trabalho com desenvolvimento Full-Stack em modalidade CLT;
+- 🔭 Hoje trabalho com desenvolvimento Web Full-Stack em modalidade CLT;
 - 🌱 Estudando segurança em .NET;
 - 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
 - 🏙  Atualmente resido no Brasil;
