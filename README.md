@@ -44,3 +44,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_fsant/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagofsant/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoPFWQZwpknEO9LJ5IqFoDQ)
+
+
+
+<div> <h1> <a href="https://app.daily.dev/tiagofsant"><img src="https://api.daily.dev/devcards/28b07b5094df4fde8a39603e34284169.png?r=waq" width="400" alt="Tiago F. Santos's Dev Card"/></a></h1></div>
+
