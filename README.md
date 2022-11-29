@@ -47,5 +47,5 @@
 
 
 
-<div> <h1> <a href="https://app.daily.dev/tiagofsant"><img src="https://api.daily.dev/devcards/28b07b5094df4fde8a39603e34284169.png?r=waq" width="400" alt="Tiago F. Santos's Dev Card"/></a></h1></div>
+<div> <h1><a href="https://app.daily.dev/tiagofsant"><img src="https://api.daily.dev/devcards/28b07b5094df4fde8a39603e34284169.png?r=m34" width="400" alt="Tiago F. Santos's Dev Card"/></a></h1></div>
 
