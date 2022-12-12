@@ -5,7 +5,7 @@
 - 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
 - 🏙  Atualmente resido no Brasil;
 - 😄 Pronome: ele/dele;
-- 😆 Fato curioso: me chamam de soldado por eu ter servido a Força Aérea por 4 anos e ser apaixonado por aviação;
+- 😆 Fato curioso: tenho dois apelidos: Tiagão da massa por conta do meu porte fisico e soldado por eu ter servido a Força Aérea por quatro anos e ser apaixonado por aviação;
 - 😉 if you are from another country, you can speak to me in english without any problems!
 
 <h2> Status baseados em repositórios públicos </h2>
