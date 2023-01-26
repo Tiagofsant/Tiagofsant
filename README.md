@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Tiago! É uma honra ter você aqui!
    
 - 🔭 Hoje trabalho com desenvolvimento Web Full-Stack em modalidade CLT;
-- 🌱 Estudando Ecossistema React e JavaScript;
+- 🌱 Estudando Ecossistema React e TypeScript;
 - 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
 - 🏙  Atualmente resido no Brasil;
 - 😄 Pronome: ele/dele;
