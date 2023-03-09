@@ -13,7 +13,7 @@
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagofsant&show_icons=true&theme=tokyonight)
  
   <a display: inner-block href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofsant&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="" />
    </a>
 
 <h2> Tenologias que utilizo </h2>
