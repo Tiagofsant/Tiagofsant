@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com desenvolvimento Web Full-Stack em modalidade CLT;
 - 🌱 Estudando DevSecOps;
 - 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
-- 😎 Tecnologia Front-End que eu mais ultilizo são React e TypeScript;
+- 😎 Tecnologias Front-End que eu mais ultilizo são React e TypeScript;
 - 😎 Versionamento de código com GitFlow e correlatos;
 - 🏙  Atualmente resido no Brasil;
 - 😄 Pronome: ele/dele;
