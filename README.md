@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Tiago! É uma honra ter você aqui!
    
 - 🔭 Hoje trabalho com desenvolvimento Web Full-Stack em modalidade CLT;
-- 🌱 Estudando Ecossistema React e TypeScript;
+- 🌱 Estudando DevSecOps;
 - 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
+- 😎 Tecnologia Front-End que eu mais ultilizo são React e TypeScript;
 - 🏙  Atualmente resido no Brasil;
 - 😄 Pronome: ele/dele;
 - 😆 Fato curioso: tenho dois apelidos: Tiagão da massa por conta do meu porte fisico e soldado por eu ter servido a Força Aérea por quatro anos e ser apaixonado por aviação;
