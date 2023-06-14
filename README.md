@@ -1,16 +1,15 @@
-## Olá! Eu sou o Tiago! É uma honra ter você aqui!
+## Hello! I'm Tiago! It's an honor to have you here!
    
-- 🔭 Hoje trabalho com desenvolvimento Web Full-Stack em modalidade CLT;
-- 🌱 Estudando DevSecOps;
-- 😎 Desenvolvedor de APIs REST e ASP.NET MVC;
-- 😎 Tecnologias Front-End que eu mais ultilizo são React e TypeScript;
-- 😎 Versionamento de código com GitFlow e correlatos;
-- 🏙  Atualmente resido no Brasil;
-- 😄 Pronome: ele/dele;
-- 😆 Fato curioso: tenho dois apelidos: Tiagão da massa por conta do meu porte fisico e soldado por eu ter servido a Força Aérea por quatro anos e ser apaixonado por aviação;
-- 😉 if you are from another country, you can talk to me in english no problem!
+- 🔭 Today, I work as a Full-Stack Web Developer under the CLT employment model;
+- 🌱 I'm studying DevSecOps;
+- 😎 I'm a developer of REST APIs and ASP.NET MVC;
+- 😎 The Front-End technologies I mostly utilize are React and TypeScript;
+- 😎 I have experience with code versioning using GitFlow and related methodologies;
+- 🏙  I currently reside in Brazil;
+- 😄 Pronouns: he/him;
+- 😆 Interesting fact: I have two nicknames: "Tiagão da massa" because of my physical stature, and "Soldado" because I served in the Air Force for four years and I'm passionate about aviation;
 
-<h2> Status baseados em repositórios públicos </h2>
+<h2> Status based on public repositories </h2>
   
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagofsant&show_icons=true&theme=tokyonight)
  
@@ -18,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofsant&theme=tokyonight&hide_langs_below=1" />
    </a>
 
-<h2> Tenologias que utilizo </h2>
+<h2> The technologies I use are </h2>
 <div display: inner-block> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CCS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +42,7 @@
 
 
 
-<h2> Entre em contato! </h2>
+<h2> Get in touch! </h2>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5569999951496&text&type=phone_number&app_absent=0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_fsant/)
