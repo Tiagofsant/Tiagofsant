@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofsant&theme=tokyonight&hide_langs_below=1" />
    </a>
 
-<h2> The technologies I use are </h2>
+<h2> The technologies I use </h2>
 <div display: inner-block> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CCS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
