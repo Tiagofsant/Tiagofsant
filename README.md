@@ -7,7 +7,7 @@
 - 😎 I have experience with code versioning using GitFlow and related methodologies;
 - 🏙  I currently reside in Brazil;
 - 😄 Pronouns: he/him;
-- 😆 Interesting fact: I have two nicknames: "Tiagão da massa" because of my physical stature, and "Soldado" because I served in the Air Force for four years and I'm passionate about aviation;
+- 😆 Interesting fact: I have 2 nicknames, "Viking" because of the physical resemblance, like red beard and physical build, and "Soldier" because I served in the Air Force for four years and I'm passionate about aviation;
 
 <h2> Status based on public repositories </h2>
   
