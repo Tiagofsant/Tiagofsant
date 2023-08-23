@@ -1,7 +1,7 @@
 ## Hello! I'm Tiago! It's an honor to have you here!
    
 - 🔭 Today, I work as a Full-Stack Web Developer under the CLT employment model;
-- 🌱 I'm studying DevSecOps;
+- 🌱 I'm studying DevOps;
 - 😎 I'm a developer of REST APIs and ASP.NET MVC;
 - 😎 The Front-End technologies I mostly utilize are React and TypeScript;
 - 😎 I have experience with code versioning using GitFlow and related methodologies;
