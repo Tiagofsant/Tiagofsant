@@ -1,7 +1,7 @@
 ## Hello! I'm Tiago! It's an honor to have you here!
    
 - 🔭 Today, I work as a Full-Stack Web Developer;
-- 💼 I'm founder of FullCOde Developlement based in Brazil;
+- 💼 I'm founder of FullCode Development based in Brazil;
 - 🌱 I'm studying DevOps;
 - 😎 I'm a developer of REST APIs and ASP.NET MVC;
 - 😎 The Front-End technologies I mostly utilize are React and TypeScript;
