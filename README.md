@@ -2,7 +2,7 @@
    
 - 🔭 Today, I work as a Full-Stack Web Developer;
 - 💼 I'm founder of FullCode Development based in Brazil;
-- 🌱 I'm studying DevOps;
+- 🌱 I'm studying DevOps and Node.Js;
 - 😎 I'm a developer of REST APIs and ASP.NET MVC;
 - 😎 The Front-End technologies I mostly utilize are React and TypeScript;
 - 😎 I have experience with code versioning using GitFlow and related methodologies;
