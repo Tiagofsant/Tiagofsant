@@ -1,24 +1,22 @@
 ## Hello! I'm Tiago! It's an honor to have you here!
-   
-- 🔭 Today, I work as a Full-Stack Web Developer;
-- 💼 I'm founder of FullCode Development based in Brazil;
-- 🌱 I'm studying DevOps and Node.Js;
-- 😎 I'm a developer of REST APIs and ASP.NET MVC;
-- 😎 The Front-End technologies I mostly utilize are React and TypeScript;
-- 😎 I have experience with code versioning using GitFlow and related methodologies;
-- 🏙  I currently reside in Brazil;
-- 😄 Pronouns: he/him;
-- 😆 Interesting fact: I have 2 nicknames, "Viking" because of the physical resemblance, like red beard and physical build, and "Soldier" because I served in the Air Force for four years and I'm passionate about aviation;
+
+* 🔭 Currently, I work as a Full-Stack Web Developer;
+* 💼 I'm the founder of Full Code Software, based in Brazil;
+* 🌱 I'm specializing in DevOps and AI Engineering;
+* 😎 In Back-End technologies, I develop REST APIs using the C# and ASP.NET ecosystems;
+* 😎 In Front-End technologies, I mainly work with React.js, Next.js, and TypeScript;
+* 😎 I have experience with code versioning using GitFlow and agile methodologies like Scrum;
+* 🏙 I currently reside in Brazil;
+* 😄 Pronouns: he/him;
+* 😆 Fun fact: I have two nicknames: "Viking," due to my physical resemblance, including a red beard and strong build, and "Soldier," because I served in the Air Force for four years and am passionate about aviation.
 
 <h2> Status based on public repositories </h2>
-  
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagofsant&show_icons=true&theme=tokyonight)
- 
-  <a display: inner-block href="https://github.com/Gurupreet" > 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofsant&theme=tokyonight&hide_langs_below=1" />
-   </a>
 
-<h2> The technologies I use </h2>
+[![Tiago's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tiagofsant&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tiagofsant/github-readme-stats#gh-dark-mode-only)
+[![Tigo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagofsant&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tiagofsant/github-readme-stats#gh-light-mode-only)
+ 
+
+<h2> The technologies that I use </h2>
 <div display: inner-block> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CCS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,6 +42,10 @@
 <img align="center" alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge" />
 </div>
 
+<p></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofsant&layout=donut-vertical&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofsant&layout=donut-vertical&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <h2> Get in touch! </h2>
 
@@ -51,8 +53,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_fsant/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagofsant/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoPFWQZwpknEO9LJ5IqFoDQ)
-
-
-
-<div> <h1><a href="https://app.daily.dev/tiagofsant"><img src="https://api.daily.dev/devcards/28b07b5094df4fde8a39603e34284169.png?r=m34" width="400" alt="Tiago F. Santos's Dev Card"/></a></h1></div>
 
