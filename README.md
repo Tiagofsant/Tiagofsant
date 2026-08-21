@@ -1,4 +1,4 @@
-# 🚀 Tiago Vesperin
+# 🚀 Tiago F. Santos
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Architect+%7C+Tech+Lead;Full-Stack+Developer+(.NET+%2B+React);Founder+%40+Full+Code+Technology;Industrial+IoT+%26+RFID+Specialist" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 
 Fundador da **Full Code Technology**, atuando como Arquiteto de Software e Desenvolvedor Full-Stack focado em plataformas SaaS de alta complexidade e integração com sistemas industriais.
 
-- 🏗️ **Arquitetura & SaaS:** Especialista no desenvolvimento de ecossistemas multitenant, sistemas de logística industrial (como o *PalletFlow*) e soluções baseadas em RFID/IoT.
+- 🏗️ **Arquitetura & SaaS:** Especialista no desenvolvimento de ecossistemas multitenant, sistemas de logística industrial e soluções baseadas em RFID/IoT.
 - 👨‍🏫 **Mentoria & Comunidade:** Entusiasta do ensino de tecnologia para novos desenvolvedores e projetos open-source voltados a padrões de segurança e arquitetura resiliente.
 - 🛩️ **Curiosidade:** Ex-membro da Força Aérea Brasileira (FAB) de onde veio o apelido *"Soldier"*, apaixonado por aviação civil e entusiasta do motociclismo *adventure*.
 
