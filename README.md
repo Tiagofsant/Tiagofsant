@@ -27,17 +27,19 @@ Founder of **Full Code Technology**, working as a Software Architect and Full-St
 
 - 🏗️ **Architecture & SaaS:** Specialist in developing multi-tenant ecosystems, industrial logistics systems, and RFID/IoT-based solutions.
 - 👨‍🏫 **Mentorship & Community:** Enthusiastic about teaching tech to aspiring developers and building open-source projects focused on security standards and resilient architecture.
-- 🛩️ **Fun Fact:** Former member of the Brazilian Air Force (FAB)—which earned me the nickname *"Soldier"*—passionate about civil aviation and adventure motorcycling.
+- 🛩️ **Fun Fact:** Former member of the Brazilian Air Force (FAB)—which earned me the nickname *"Vicking Soldier"*—passionate about civil aviation and adventure motorcycling.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### **Backend & Cloud Architecture**
+#### **Backend, Cloud & Messaging**
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -50,11 +52,14 @@ Founder of **Full Code Technology**, working as a Software Architect and Full-St
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-#### **DevOps, Observability & Tooling**
+#### **Security, Observability & Tooling**
+![OWASP](https://img.shields.io/badge/OWASP-DC2626?style=flat-square&logo=owasp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Application Insights](https://img.shields.io/badge/Azure_Application_Insights-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![MQTT Protocol](https://img.shields.io/badge/MQTT_Protocol-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![RFID & Industrial IoT](https://img.shields.io/badge/RFID_%26_IoT-005A9C?style=flat-square&logo=internet-of-things&logoColor=white)
+![ZPL Programming](https://img.shields.io/badge/ZPL_Programming-000000?style=flat-square&logo=zebra&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
