@@ -67,15 +67,10 @@ Fundador da **Full Code Technology**, atuando como Arquiteto de Software e Desen
 ---
 
 ### 📊 Estatísticas no GitHub
-
 <div align="center">
-  <!-- Card de Estatísticas Gerais (Servidor Alt) -->
+  <!-- Gráfico de Atividade/Contribuições (Alta Disponibilidade) -->
   <a href="https://github.com/tiagofsant">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiagofsant&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" alt="Tiago's GitHub Stats" />
-  </a>
-  <!-- Card de Linguagens Mais Usadas (Servidor Alt) -->
-  <a href="https://github.com/tiagofsant">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofsant&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&hide=html,css&cache_seconds=86400" alt="Top Languages" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofsant&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Gráfico de Atividades" />
   </a>
 </div>
 
