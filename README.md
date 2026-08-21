@@ -73,16 +73,6 @@ Fundador da **Full Code Technology**, atuando como Arquiteto de Software e Desen
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofsant&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Gráfico de Atividades" />
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <!-- Gráfico de Atividade/Contribuições (Alternativa de Alta Estabilidade) -->
-  <a href="https://github.com/tiagofsant">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofsant&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Activity Graph" />
-  </a>
-</div>
-
 ---
 
 ### 📬 Vamos nos conectar!
