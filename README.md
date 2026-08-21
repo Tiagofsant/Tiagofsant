@@ -21,17 +21,17 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Fundador da **Full Code Technology**, atuando como Arquiteto de Software e Desenvolvedor Full-Stack focado em plataformas SaaS de alta complexidade e integração com sistemas industriais.
+Founder of **Full Code Technology**, working as a Software Architect and Full-Stack Developer focused on high-complexity SaaS platforms and industrial system integration.
 
-- 🏗️ **Arquitetura & SaaS:** Especialista no desenvolvimento de ecossistemas multitenant, sistemas de logística industrial e soluções baseadas em RFID/IoT.
-- 👨‍🏫 **Mentoria & Comunidade:** Entusiasta do ensino de tecnologia para novos desenvolvedores e projetos open-source voltados a padrões de segurança e arquitetura resiliente.
-- 🛩️ **Curiosidade:** Ex-membro da Força Aérea Brasileira (FAB) de onde veio o apelido *"Soldier"*, apaixonado por aviação civil e entusiasta do motociclismo *adventure*.
+- 🏗️ **Architecture & SaaS:** Specialist in developing multi-tenant ecosystems, industrial logistics systems, and RFID/IoT-based solutions.
+- 👨‍🏫 **Mentorship & Community:** Enthusiastic about teaching tech to aspiring developers and building open-source projects focused on security standards and resilient architecture.
+- 🛩️ **Fun Fact:** Former member of the Brazilian Air Force (FAB)—which earned me the nickname *"Soldier"*—passionate about civil aviation and adventure motorcycling.
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 #### **Backend & Cloud Architecture**
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -50,7 +50,7 @@ Fundador da **Full Code Technology**, atuando como Arquiteto de Software e Desen
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-#### **DevOps, Observabilidade & Tooling**
+#### **DevOps, Observability & Tooling**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Application Insights](https://img.shields.io/badge/Azure_Application_Insights-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -66,19 +66,21 @@ Fundador da **Full Code Technology**, atuando como Arquiteto de Software e Desen
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 GitHub Stats
+
 <div align="center">
-  <!-- Gráfico de Atividade/Contribuições (Alta Disponibilidade) -->
+  <!-- Activity / Contribution Graph -->
   <a href="https://github.com/tiagofsant">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofsant&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Gráfico de Atividades" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofsant&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Activity Graph" />
   </a>
 </div>
+
 ---
 
-### 📬 Vamos nos conectar!
+### 📬 Let's Connect!
 
-Seja para discutir sobre **arquitetura de software**, parcerias com a **Full Code Technology**, projetos de **IoT/RFID** ou trocar uma ideia sobre aviação e desenvolvimento:
+Whether you'd like to talk about **software architecture**, partnerships with **Full Code Technology**, **IoT/RFID** projects, or chat about aviation and development:
 
-- 📧 **Email:** [Contato via LinkedIn](https://www.linkedin.com/in/tiagofsant/)
-- 🌐 **Empresa:** Full Code Technology
-- 📍 **Localização:** Ji-Paraná, Rondônia, Brasil
+- 📧 **Email:** [Get in touch via LinkedIn](https://www.linkedin.com/in/tiagofsant/)
+- 🌐 **Company:** Full Code Technology
+- 📍 **Location:** Ji-Paraná, Rondônia, Brazil
