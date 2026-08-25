@@ -74,9 +74,9 @@ Founder of **Full Code Technology**, working as a Software Architect and Full-St
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Activity / Contribution Graph -->
+  <!-- Contribution Snake Graph -->
   <a href="https://github.com/tiagofsant">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagofsant&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Activity Graph" />
+    <img width="100%" src="https://raw.githubusercontent.com/tiagofsant/tiagofsant/output/github-contribution-grid-snake-dark.svg" alt="Snake Activity Graph" />
   </a>
 </div>
 
